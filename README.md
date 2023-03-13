@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajdevaliya
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning data science concepts ( ML , DL , NLP, COMPUTER VISION )
+- 👀 I’m interested in Data science and odoo development
+- 🌱 I’m currently learning data science concepts ( ML , DL , NLP, COMPUTER VISION ) and knowledge in odoo (js, python, html, Bootstrap, sql etc)
 - 💞️ I’m looking to collaborate on this field
 - 📫 you can reach me to rajdevaliya168@gmail.com
 
